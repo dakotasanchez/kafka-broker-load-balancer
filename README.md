@@ -1,3 +1,3 @@
-# kafka-broker-load-balancer
+# kafka-cluster-rebalancer
 
 WIP
